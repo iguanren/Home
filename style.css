@@ -144,7 +144,7 @@ strike {
 
 .photo-bg {
     /* background-image: url(assets/background.jpg); */
-    background-image: url(https://api.dujin.org/bing/1920.php);
+    background-image: url(https://api.sunweihu.com/api/bing1/api.php);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
